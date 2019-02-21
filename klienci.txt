@@ -1,0 +1,4 @@
+Zbigniew 2
+Leszek 3
+Bartosz 1
+Angelika 4
